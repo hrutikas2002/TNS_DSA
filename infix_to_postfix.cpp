@@ -64,7 +64,7 @@ int isOperator(char ch)
 int main()
 {
     char infix[20], postfix[20];
-    cout<<"\nINFINIX TO POSTFIX...............!!";
+    cout<<"\nINFIX TO POSTFIX...............!!";
     Stack st;
     cout<<"\nEnter the infix expression : ";
     cin>>infix;
